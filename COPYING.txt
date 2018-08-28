@@ -1,0 +1,14 @@
+NOTICE OF LICENSE
+
+Each Magento source file included in this module is subject to the EULA available
+through the world-wide-web at the following URL:
+http://www.shopigo.ch/en/license-agreement/
+
+DISCLAIMER
+
+This module designed for Magento Community Edition (CE).
+
+Shopigo does not guarantee correct work of this extension on any other Magento
+edition except Magento Community Edition (CE).
+
+Shopigo does not provide extension support in case of incorrect edition usage.
