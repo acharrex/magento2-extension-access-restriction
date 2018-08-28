@@ -32,3 +32,10 @@ Magento 2 "AccessRestriction" extension adds a feature which allow to deny acces
 - Configure your rules
 
 Enjoy!
+
+----
+
+**Les services Shopigo**
+- [Offre packagée e-commerce Magento](https://www.shopigo.ch/ecommerce-magento-suisse)
+- [Prestations Magento sur mesure](https://www.shopigo.ch/developpement-formation-migration-magento)
+- [Blog e-commerce Magento](https://www.shopigo.ch/blog)
