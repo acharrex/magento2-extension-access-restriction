@@ -1,7 +1,7 @@
 <?php
 /**
  * Copyright © Shopigo. All rights reserved.
- * See COPYING.txt for license details.
+ * See LICENSE.txt for license details (http://opensource.org/licenses/osl-3.0.php).
  */
 
 namespace Shopigo\AccessRestriction\Helper;
