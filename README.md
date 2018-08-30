@@ -6,6 +6,8 @@ This extension adds a feature which allow to deny access to some pages of Magent
 
 More information available at [Shopigo Blog](https://www.shopigo.ch/blog/extension-magento-2-restreindre-acces-pages) (in french).
 
+![](https://www.shopigo.ch/wp-content/uploads/2018/08/github-extension-access-restriction-settings.jpg)
+
 ## Requirements
 
 Magento Open Source Edition 2.2.x.
@@ -39,9 +41,10 @@ php bin/magento setup:static-content:deploy
 
 - Log into your Magento back-office
 - Go to the menu "Stores > Configuration > Shopigo Extensions > Access Restrictions"
-- Configure your rules
+- Configure your rules in the field "Restriction Rules"
 - Set the parameter "Enabled" to "Yes"
 - Flush Magento caches from the menu "System > Tools > Cache Management"
+- Go to each page to check their response
 
 ## Support
 If you have any issues, open a bug report in GitHub's [issue tracker](https://github.com/shopigo/magento2-extension-access-restriction/issues).
