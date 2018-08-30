@@ -44,7 +44,7 @@ php bin/magento setup:static-content:deploy
 - Configure your rules in the field "Restriction Rules"
 - Set the parameter "Enabled" to "Yes"
 - Flush Magento caches from the menu "System > Tools > Cache Management"
-- Go to each page to check their response
+- Go to each page to check its response
 
 ## Support
 If you have any issues, open a bug report in GitHub's [issue tracker](https://github.com/shopigo/magento2-extension-access-restriction/issues).
