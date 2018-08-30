@@ -17,8 +17,8 @@ class Data extends AbstractHelper
     /**
      * Config paths
      */
-    const XML_PATH_ENABLED           = 'general/shopigo_access_restriction/enabled';
-    const XML_PATH_RESTRICTION_RULES = 'general/shopigo_access_restriction/rules';
+    const XML_PATH_ENABLED           = 'shopigo_accessrestriction/general/enabled';
+    const XML_PATH_RESTRICTION_RULES = 'shopigo_accessrestriction/general/rules';
 
     /**
      * @var ScopeConfigInterface

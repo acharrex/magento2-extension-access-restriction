@@ -12,7 +12,7 @@
                 <resource id="Magento_Backend::stores">
                     <resource id="Magento_Backend::stores_settings">
                         <resource id="Magento_Config::config">
-                            <resource id="Shopigo_AccessRestriction::access_restriction" title="Access Restrictions" translate="title"/>
+                            <resource id="Shopigo_AccessRestriction::config" title="Access Restrictions Section"/>
                         </resource>
                     </resource>
                 </resource>

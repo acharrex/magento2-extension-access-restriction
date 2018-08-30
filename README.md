@@ -1,3 +1,5 @@
+![Shopigo](https://www.shopigo.ch/wp-content/uploads/2018/08/github-shopigo-logo.png)
+
 # Magento 2 Access Restriction extension by Shopigo
 
 This extension adds a feature which allow to deny access to some pages of Magento by displaying an 404 error page.
@@ -13,11 +15,11 @@ Magento Open Source Edition 2.2.x.
 ## Method 1 - Installing via composer
 
 - Switch to your Magento project root
-- Run `composer require shopigo/magento2-module-access-restriction=dev-master`
+- Run `composer require shopigo/magento2-extension-access-restriction=dev-master`
 
 ## Method 2 - Installing using archive
 
-- Download [ZIP Archive](https://github.com/shopigo/magento2-module-access-restriction/archive/master.zip)
+- Download [ZIP Archive](https://github.com/shopigo/magento2-extension-access-restriction/archive/master.zip)
 - Switch to your Magento project root
 - Create folder `app/code/Shopigo/AccessRestriction`
 - Extract zip into path
@@ -36,14 +38,15 @@ php bin/magento setup:static-content:deploy
 ## How to use it
 
 - Log into your Magento back-office
-- Go to the menu "Stores > Configuration > General > General > Access Restrictions"
+- Go to the menu "Stores > Configuration > Shopigo Extensions > Access Restrictions"
 - Configure your rules
-
+- Set the parameter "Enabled" to "Yes"
+- Flush Magento caches from the menu "System > Tools > Cache Management"
 
 ## Support
-If you have any issues, open a bug report in GitHub's [issue tracker](https://github.com/shopigo/magento2-module-access-restriction/issues).
+If you have any issues, open a bug report in GitHub's [issue tracker](https://github.com/shopigo/magento2-extension-access-restriction/issues).
 
-## Need any help? Need more features?
+## Need more features?
 Please contact us to get a quote https://www.shopigo.ch/contact
 
 ## License

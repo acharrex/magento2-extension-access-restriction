@@ -1,5 +1,5 @@
 {
-  "name": "shopigo/magento2-module-access-restriction",
+  "name": "shopigo/magento2-extension-access-restriction",
   "description": "N/A",
   "require": {
     "php": "~7.0.13|~7.1.0",
