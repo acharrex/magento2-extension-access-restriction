@@ -1,6 +1,6 @@
-![Shopigo](https://www.shopigo.ch/wp-content/uploads/2018/08/github-shopigo-logo.png)
+[![Shopigo](https://www.shopigo.ch/wp-content/uploads/2018/08/github-shopigo-logo.png)](https://www.shopigo.ch)
 
-# Magento 2 Access Restriction extension by Shopigo
+# Magento 2 Access Restriction extension by [Shopigo](https://www.shopigo.ch)
 
 This extension adds a feature which allow to deny access to certain pages by displaying a 404 error page.
 
@@ -46,12 +46,16 @@ php bin/magento setup:static-content:deploy
 - Flush Magento caches from the menu "System > Tools > Cache Management"
 
 ## Support
+
 If you have any issues, open a bug report in GitHub's [issue tracker](https://github.com/shopigo/magento2-extension-access-restriction/issues).
 
 ## Need more features?
+
 Please contact us to get a quote https://www.shopigo.ch/contact
 
 ## License
+
 The code is licensed under [Open Software License ("OSL") v. 3.0](http://opensource.org/licenses/osl-3.0.php).
 
-Enjoy!
+Enjoy!<br/>
+[Shopigo](https://www.shopigo.ch)
