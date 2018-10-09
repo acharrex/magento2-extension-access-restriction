@@ -4,8 +4,6 @@
 
 This extension adds a feature which allow to deny access to certain pages by displaying a 404 error page.
 
-More information available at [Shopigo Blog](https://www.shopigo.ch/blog/extension-magento-2-restreindre-acces-pages) (in french).
-
 ![](https://www.shopigo.ch/wp-content/uploads/2018/08/github-extension-access-restriction-settings.jpg)
 
 ## Requirements
@@ -54,6 +52,9 @@ If you have any issues, open a bug report in GitHub's [issue tracker](https://gi
 Please contact us to get a quote https://www.shopigo.ch/contact
 
 ## Change logs
+
+**Version 1.0.1** (2010-10-09)
+- Fix composer.json for Magento 2.2.0-2.2.5
 
 **Version 1.0.0** (2018-09-01)
 - First version
